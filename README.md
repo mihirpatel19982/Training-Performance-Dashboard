@@ -1,4 +1,4 @@
-Here's a detailed README file for your GitHub repository:
+Here’s the README with your requested structure, adding images in relevant sections to enhance clarity:
 
 ---
 
@@ -15,6 +15,8 @@ This dashboard covers essential metrics:
 - **Month-over-Month Trends and Outliers**
 
 By providing insights into KPIs, high-performing managers, most-completed training courses, and monthly trends, the dashboard enables better tracking and improvements in training engagement and outcomes.
+
+![Executive Overview](https://github.com/yourusername/yourrepositoryname/blob/main/Executive%20Overview.jpg)
 
 ## Key Questions Answered
 
@@ -33,12 +35,28 @@ The report has multiple pages to provide insights at different levels:
    - **Metrics**: Key statistics like total trainings, completion rates, and in-progress rates.
    - **Top Insights**: Identify top training courses, high-performing managers, and monthly trends for KPIs.
 
+   ![Executive Overview](https://github.com/yourusername/yourrepositoryname/blob/main/Executive%20Overview.jpg)
+
 ### 2. Training Status Insights
    - **Detailed Analysis**: Use slicers to drill down by user, manager, or training title to see specific completion and engagement rates.
+
+   ![Training Status Insights](https://github.com/yourusername/yourrepositoryname/blob/main/Training%20Status%20Insights.jpg)
 
 ### 3. In Progress Analysis
    - **Conversion Analysis**: Deep dive into how many trainings progress from "in-progress" to "completed."
    - **Outliers and Bottlenecks**: Identify potential issues impacting training completion times and conversion rates.
+
+   ![In Progress Insights](https://github.com/yourusername/yourrepositoryname/blob/main/In%20Progress%20Insights.jpg)
+
+### 4. Data Dictionary
+   - Quick reference for metric definitions and formulas used in the dashboard, helping users understand each metric's purpose.
+
+   ![Data Dictionary](https://github.com/yourusername/yourrepositoryname/blob/main/Data%20Dictionary.jpg)
+
+### 5. Star Schema
+   - The data model used in the report, illustrating the relationships between different tables in a star schema format.
+
+   ![Star Schema](https://github.com/yourusername/yourrepositoryname/blob/main/Star%20Schema.jpg)
 
 ## Contact Information
 
@@ -47,4 +65,8 @@ For any feedback, questions, or suggestions, please reach out to:
 
 ---
 
-This README sets up a clear structure, guiding users on what they can find in the dashboard and how it can be beneficial. You can always expand the README with more visuals or examples if needed. Let me know if you'd like any further refinements!
+### Instructions to Customize
+1. **Replace `yourusername` and `yourrepositoryname`** with your actual GitHub username and repository name in each image link.
+2. Once updated, copy and paste this entire text into your `README.md` file in the GitHub repository.
+
+This README file is now visually enhanced with images at relevant sections, making it engaging and informative for viewers. Let me know if you need further adjustments!
